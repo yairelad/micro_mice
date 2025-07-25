@@ -1,0 +1,2 @@
+class FloodFill:
+    pass
